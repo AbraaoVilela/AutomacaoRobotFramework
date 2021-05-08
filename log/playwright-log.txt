@@ -1,0 +1,22 @@
+{"level":30,"time":"2021-05-06T23:12:27.623Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Listening on 64482"}
+{"level":30,"time":"2021-05-06T23:12:28.555Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T23:12:28.894Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-06T23:12:28.894Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changed active page"}
+{"level":30,"time":"2021-05-06T23:12:35.083Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-06T23:12:35.301Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-06T23:12:35.501Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T23:12:35.501Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-06T23:12:35.502Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changed active page"}
+{"level":30,"time":"2021-05-06T23:12:35.524Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T23:12:35.524Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-06T23:12:35.524Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changed active page"}
+{"level":30,"time":"2021-05-06T23:12:36.030Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T23:12:36.408Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-06T23:12:36.408Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changed active page"}
+{"level":30,"time":"2021-05-06T23:12:38.814Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-06T23:12:39.193Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T23:12:39.193Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-06T23:12:39.193Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changed active page"}
+{"level":30,"time":"2021-05-06T23:12:39.230Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T23:12:39.230Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-06T23:12:39.230Z","pid":9276,"hostname":"DESKTOP-B791LL2","msg":"Changed active page"}
